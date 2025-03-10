@@ -34,7 +34,7 @@ iface = gr.Interface(
     ],
     outputs=gr.Textbox(label="Prediction"),
     title="Employability Prediction",
-    description="Rate yourself on the given attributes (1-5) to check your employability status."
+    description="Rate yourself on the given attributes (1-5) to check your employability status.  (AsthanM)"
 )
 
 # Run the Gradio app
